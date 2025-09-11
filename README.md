@@ -1,9 +1,9 @@
 <h1 align="center">Hey there! I'm Chirag</h1>
 <h3 align="center">"An engineering student passionate about AI, hardware projects, and algorithms."</h3>
 
-- 🔭 I’m currently working on [mujtoppers.in](https://www.mujtoppers.in/)
+- 🔭 I’m currently the President of [mujtoppers.in](https://www.mujtoppers.in/)
 
-- 🌱 I’m currently learning **Frontend development, Machine Learning, Hardware(about RPi for a project)**
+- 🌱 I’m currently learning **Data Structures and Algorithms in Java**
 
 - 💬 Ask me about **Python and Data Structures and Algorithms**
 
